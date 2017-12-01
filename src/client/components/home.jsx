@@ -35,7 +35,7 @@ export default () =>
 
     <section className={custom.header}>
       <h2 className={skeleton.title}>
-        Hey this is a nice course! {' '}
+        Hey this is a nice course! 2 {' '}
         <a href="https://github.com/electrode-io">{'Electrode'} <img src={electrodePng} /></a>
       </h2>
     </section>
