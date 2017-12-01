@@ -1,0 +1,21 @@
+Start command line : clap dev
+
+http://www.electrode.io/
+http://yeoman.io/
+https://github.com/electrode-io/electrode-electrify
+Travis CI : Continous integration tool
+NPM modules (private repo)
+State management (Redux / MobX) 
+Redux-saga (for plugin with API) : https://redux-saga.js.org/. Thunk is a lightner alternate of Saga
+
+SSR (Server side rendering) for SEO or performance enhancement (using electrode)
+PWA : Progressive Web app. Through Service workers
+Testing and linting : Jest (React), mocha + Enzyme (airbnb developers), chaijs, Karma, ESLint
+
+Building by Features/Functions or by Type of files (Components, Reducers, Actions)
+Using containers for managing the state Connection
+
+IDE : Visual Studio Code, Atoms, yo Webstorm
+
+npm i -g yo generator-electrode xclap-cli
+yo electrode
