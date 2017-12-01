@@ -10,7 +10,10 @@ Redux-saga (for plugin with API) : https://redux-saga.js.org/. Thunk is a lightn
 
 SSR (Server side rendering) for SEO or performance enhancement (using electrode)
 PWA : Progressive Web app. Through Service workers
-Testing and linting : Jest (React), mocha + Enzyme (airbnb developers), chaijs, Karma, ESLint
+Firebase : firebase.google.com
+http://developers.google.com/web/progressive-web-apps
+http://github.com/electrode-samples/hapi-react-redux (SSR Caching)
+Testing and linting : Jest (React), mocha + Enzyme (airbnb developers), chaijs, Karma, VSLint
 
 Building by Features/Functions or by Type of files (Components, Reducers, Actions)
 Using containers for managing the state Connection
